@@ -1,2 +1,2 @@
 # HelloWorld
-a new start
+a new beginning
